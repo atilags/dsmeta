@@ -1,7 +1,6 @@
 # dsmeta
 
 Ferramentas
-DÚVIDAS: veja o canal #duvidas-frequentes no Discord do evento
 
 Nodejs 16 e Yarn (vídeo: https://youtu.be/x5tgFTS-CYA )
 STS (vídeo: https://youtu.be/TGQ0K9QsX88 )
@@ -9,11 +8,10 @@ VS Code
 IntelliCode
 ESLint
 JSX HTML <tags/>
+
 Passo: criar projeto ReactJS
-DevSuperior no Instagram
 
 yarn create vite frontend --template react-ts
-DÚVIDAS: veja o canal #duvidas-frequentes no Discord do evento
 
 Passo: criar projeto Spring Boot
 Criar projeto Spring Boot no Spring Initializr com as seguintes dependências:
@@ -29,9 +27,10 @@ Ajuste no arquivo pom.xml:
 	<artifactId>maven-resources-plugin</artifactId>
 	<version>3.1.0</version><!--$NO-MVN-MAN-VER$ -->
 </plugin>
+
 Botão direito no projeto -> Maven -> Update project (force update)
+
 Passo: salvar primeira versão no Github
-DÚVIDAS: veja o canal #duvidas-frequentes no Discord do evento
 
 git init
 
